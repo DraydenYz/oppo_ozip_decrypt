@@ -6,7 +6,7 @@ Usage:
     ozipdecrypt.py <filename>
 
 Options:
-    Mode 1 for regular ozip, Mode 2 for CPH1803/CPH1909 [default: 1]
+    Mode 1 for regular ozip, Mode 2 for CPH1609/CPH1609EX [default: 1]
 """
 
 import os
